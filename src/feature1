@@ -2,4 +2,7 @@
 feature1
 =======
 feature-branch1
+<<<<<<< HEAD
+>>>>>>> parent of 4fbf964... Update feature1
+=======
 >>>>>>> parent of 4fbf964... Update feature1
